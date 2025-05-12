@@ -1,2 +1,2 @@
 # Churn Rate in Telecom Industry
-
+## The aim of this project is to predict which customers have churned from a fictitious Telecom company, based on various attributes related to the service that each costumer has consumed. Also, the accuracy of the model was measured, as well as a comparision between the predicted values and the acual values. You can find the dataset [here](https://www.kaggle.com/datasets/barun2104/telecom-churn/data).
