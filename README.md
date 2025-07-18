@@ -22,7 +22,7 @@
 
 ![ROC_Curves](https://github.com/user-attachments/assets/9ef3e94b-d944-45cb-9a52-0aa8d1f62460)
 
-* Comparing with the original Churn data, the model reached aan accuracy score of around 86%, meaning it is a good model to alert decision makers of which type of customer is likely to churn.
+* Comparing with the original Churn data, the model reached an accuracy score of around 86%, meaning it is a good model to alert decision makers of which type of customer is likely to churn.
 
 5. Next Steps
 * Explore other modeling techniques for potential performance gains.
